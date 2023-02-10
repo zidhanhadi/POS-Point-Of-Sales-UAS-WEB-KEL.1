@@ -11,3 +11,5 @@ Nama Kelompok 1 :
 4. Zidhan Hadi Irawan
 
 5. El Risko Noval
+
+Link Google Drive File Project Laravel (POS) : https://drive.google.com/drive/folders/1o6UaoGPfuwh_bhW-Bivw5HSlpdpwvN2I?usp=sharing
